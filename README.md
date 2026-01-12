@@ -38,6 +38,19 @@ Eine große Herausforderung bestand darin, dass wir viele Bereiche wie UI-Design
 Zudem ist es nicht möglich, mit reinem C#-Wissen direkt mit Unity zu arbeiten, da Unity auf der vererbten Klasse MonoBehaviour basiert.
 Diese Klasse bringt zahlreiche neue Methoden und Parameter mit sich, bei denen man aufgrund der Vielzahl leicht den Überblick verlieren kann.
 -----------------------------------------------------------------------------------
+Meine Vorgehensweise
+
+Da – wie bereits erwähnt – neue Fähigkeiten erforderlich waren, um das gesamte Projekt umzusetzen, habe ich mir Unterstützung durch verschiedene YouTube-Tutorials geholt.
+Da ich jedoch nicht zu jeder Idee ein passendes oder vollständig erklärendes Video finden konnte, habe ich meine Arbeit in kleine, überschaubare Teilschritte unterteilt.
+
+Am Beispiel des Minispiels „Count Clash“ (die Funktionsweise ist unten beschrieben) lässt sich meine Vorgehensweise gut erklären:
+Zunächst benötigte ich eine zufällige Anzahl an NPCs, die sich eigenständig durch die Map bewegen.
+Daher habe ich mich zuerst damit beschäftigt, wie ich die Generierung der NPCs umsetzen kann.
+Anschließend habe ich mich mit der Frage befasst, wie ich diese NPCs dazu bringe, sich zufällig über die Map zu bewegen.
+
+Diese Vorgehensweise – das Zerlegen eines größeren Problems in mehrere kleinere Aufgaben – habe ich während des gesamten Projekts angewendet, um Schritt für Schritt funktionierende Lösungen zu entwickeln.
+Die obige Erklärung stellt dabei nur eine vereinfachte Darstellung des tatsächlichen Entwicklungsprozesses dar.
+-----------------------------------------------------------------------------------
 Meine Aufgaben im Projekt
 
 Ich entwickelte die Minispiele „Count Clash“, „Flash Attack“ und „Meteor Madness“ vollständig eigenständig.
