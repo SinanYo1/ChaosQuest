@@ -1,4 +1,15 @@
 ChaosQuest
+------------------------------------------------------------------------------------
+Wichtige Informationen
+
+Das Spiel ist nicht vollständig und nicht perfekt entwickelt, da der zeitliche Rahmen dies nicht zugelassen hat und es für das Schulprojekt auch nicht vorgesehen war, ein komplett fertiges Spiel zu erstellen.
+Außerdem können vereinzelt Importierungsfehler auftreten, die bestimmte Aspekte des Spiels beeinträchtigen.
+
+Sollten Fragen auftreten, beispielsweise zur Bedienung von Unity oder zum Öffnen der einzelnen Minispiele, können Sie mir gerne eine Nachricht senden
+(@sinanyapraky@gmail.com).
+
+Falls ich in die zweite Phase des Bewerbungsverfahrens kommen sollte, können dort gerne detailliertere Fragen gestellt werden. 🙂
+
 -----------------------------------------------------------------------------------
 Spielprinzip
 
@@ -51,12 +62,3 @@ Eine zufällige Anzahl beweglicher NPCs füllt die Map.
 Die Spieler haben 30 Sekunden Zeit, um die Anzahl der NPCs zu zählen.
 Der Spieler, dessen Schätzung näher an der tatsächlichen Anzahl liegt, gewinnt.
 -----------------------------------------------------------------------------------
-Wichtige Informationen
-
-Das Spiel ist nicht vollständig und nicht perfekt entwickelt, da der zeitliche Rahmen dies nicht zugelassen hat und es für das Schulprojekt auch nicht vorgesehen war, ein komplett fertiges Spiel zu erstellen.
-Außerdem können vereinzelt Importierungsfehler auftreten, die bestimmte Aspekte des Spiels beeinträchtigen.
-
-Sollten Fragen auftreten, beispielsweise zur Bedienung von Unity oder zum Öffnen der einzelnen Minispiele, können Sie mir gerne eine Nachricht senden
-(@sinanyapraky@gmail.com).
-
-Falls ich in die zweite Phase des Bewerbungsverfahrens kommen sollte, können dort gerne detailliertere Fragen gestellt werden. 🙂
