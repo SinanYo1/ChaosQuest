@@ -2,6 +2,9 @@ ChaosQuest
 ------------------------------------------------------------------------------------
 Wichtige Informationen
 
+um das Spiel in Unity zu importieren brauchen die Ordner "Packages", "ProjectSettings" und Assets. Da es Probleme beim Importieren des Assets Folder gab
+müssen sie die Zip Datei dieses Ordners leider über diesen Link Downloaden: https://mega.nz/folder/V3E0FLhL#76xuC7fC-p5mL0JljFKQog
+falls sie nur das Spiel sehen wollen müssen sie die "Chaos Quest.exe" Downloaden und ausführen.
 Das Spiel ist nicht vollständig und nicht perfekt entwickelt, da der zeitliche Rahmen dies nicht zugelassen hat und es für das Schulprojekt auch nicht vorgesehen war, ein komplett fertiges Spiel zu erstellen.
 Außerdem können vereinzelt Importierungsfehler auftreten, die bestimmte Aspekte des Spiels beeinträchtigen.
 
