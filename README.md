@@ -26,6 +26,37 @@ Diese Klasse bringt zahlreiche neue Methoden und Parameter mit sich, bei denen m
 -----------------------------------------------------------------------------------
 Meine Aufgaben im Projekt
 
-Ich entwickelte die Minispiele „Count Clash“, „Flash Attack“ und „Meteor Madness“ vollständig eigenständig (die Funktionsweise der Spiele ist beim Start eines Minispiels ersichtlich).
+Ich entwickelte die Minispiele „Count Clash“, „Flash Attack“ und „Meteor Madness“ vollständig eigenständig.
 Darüber hinaus unterstützte ich das Team auch beim Hauptspiel sowie bei anderen Minispielen, insbesondere in den Bereichen UI-Design, Animation, Sound und Spiellogik.
 -----------------------------------------------------------------------------------
+
+Erklärung meiner Minispiele
+Flash Attack:
+
+Zwei Spieler stehen sich gegenüber, während eine spannende Musik abgespielt wird.
+Sobald die Musik endet und das Signal „Fight“ erscheint, muss der jeweilige Spieler seinen Aktionsknopf drücken
+(Spieler 1: Taste „D“, Spieler 2: linke Pfeiltaste).
+Der Spieler, der zuerst korrekt reagiert, zieht seinem Gegner eines von drei Leben ab.
+Drückt ein Spieler jedoch vor dem Signal, verliert er selbst ein Leben.
+-----------------------------------------------------------------------------------
+Meteor Madness:
+
+In diesem Minispiel fallen Meteoriten vom Himmel, die nach und nach das Spielfeld füllen.
+Das Ziel ist es, den Meteoriten auszuweichen.
+Der Spieler, der zuerst von einem Meteoriten getroffen wird, verliert das Spiel.
+-----------------------------------------------------------------------------------
+Count Clash
+
+Eine zufällige Anzahl beweglicher NPCs füllt die Map.
+Die Spieler haben 30 Sekunden Zeit, um die Anzahl der NPCs zu zählen.
+Der Spieler, dessen Schätzung näher an der tatsächlichen Anzahl liegt, gewinnt.
+-----------------------------------------------------------------------------------
+Wichtige Informationen
+
+Das Spiel ist nicht vollständig und nicht perfekt entwickelt, da der zeitliche Rahmen dies nicht zugelassen hat und es für das Schulprojekt auch nicht vorgesehen war, ein komplett fertiges Spiel zu erstellen.
+Außerdem können vereinzelt Importierungsfehler auftreten, die bestimmte Aspekte des Spiels beeinträchtigen.
+
+Sollten Fragen auftreten, beispielsweise zur Bedienung von Unity oder zum Öffnen der einzelnen Minispiele, können Sie mir gerne eine Nachricht senden
+(@sinanyapraky@gmail.com).
+
+Falls ich in die zweite Phase des Bewerbungsverfahrens kommen sollte, können dort gerne detailliertere Fragen gestellt werden. 🙂
