@@ -81,5 +81,5 @@ public class Char2Movement : MonoBehaviour
     }
 }
 
-//Diese Klasse sorgt für die Bewegung des Ersten Spielers, Grenzt seinen Bewegungs Radius ein und prüft ob er "gestorben" // Diese Klasse steuert die Bewegung des ersten Spielers,
-// begrenzt seinen Bewegungsradius und prüft, ob er „gestorben“ ist.
+
+//Diese Klasse steuert die Bewegung und Animation des zweiten Spielers, begrenzt seinen Bewegungsbereich und deaktiviert die Steuerung, sobald der Spieler gestorben ist.
