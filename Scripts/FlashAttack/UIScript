@@ -1,0 +1,58 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class UIScript : MonoBehaviour
+{
+
+    public ShootingCode shootingCode;
+    public Image Herz1Player1; // Herz-Bilder für Spieler 1
+    public Image Herz2Player1; // Herz-Bilder für Spieler 1
+    public Image Herz3Player1; // Herz-Bilder für Spieler 1
+
+    public Image Herz1Player2; // Herz-Bilder für Spieler 2
+    public Image Herz2Player2; // Herz-Bilder für Spieler 2
+    public Image Herz3Player2; // Herz-Bilder für Spieler 2
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        LebenVerloren();
+    }
+
+    void LebenVerloren()
+    {
+        if (shootingCode.player1Health == 2)
+        {
+            Herz1Player1.enabled = false;
+        }
+        if (shootingCode.player1Health == 1)
+        {
+            Herz2Player1.enabled = false;
+        }
+        if (shootingCode.player1Health == 0)
+        {
+            Herz3Player1.enabled = false;
+        }
+        if (shootingCode.player2Health == 2)
+        {
+            Herz1Player2.enabled = false;
+        }
+        if (shootingCode.player2Health == 1)
+        {
+            Herz2Player2.enabled = false;
+        }
+        if (shootingCode.player2Health == 0)
+        {
+            Herz3Player2.enabled = false;
+        }
+    }
+}
+
+//Dieses Skript aktualisiert die Lebensanzeige im UI für zwei Spieler. Je nach verbleibender Gesundheit werden die Herz-Symbole ein- oder ausgeblendet, um den aktuellen Lebensstand visuell darzustellen.
