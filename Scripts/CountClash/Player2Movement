@@ -33,4 +33,4 @@ public class Player2Movement : MonoBehaviour
     }
 }
 
-// Dieser Code Abschnitt ist zuständig für die Kamera Bewegung vom Zweiten Spieler.
+// Dieser Code ist zuständig für die Kamera Bewegung vom Zweiten Spieler.
